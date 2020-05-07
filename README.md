@@ -67,6 +67,5 @@ Usando Clienta también
 ![](img/8.png)
 
 
-
 [1]: https://beginnersbook.com/2017/06/how-to-fix-dynamic-web-project-missing-in-eclipse-issue/
 
